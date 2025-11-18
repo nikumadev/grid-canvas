@@ -114,7 +114,7 @@ main .btn-container #reset {
   box-shadow: rgba(161, 161, 161, 0.3) 0px 0px 72px 0px, rgba(255, 255, 255, 0.6) 0px 1px 0px 0px inset, rgba(124, 124, 124, 0.12) 0px 0px 0px 6px;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 900px) {
   main #grid {
     grid-template-columns: repeat(8, 1fr);
   }
